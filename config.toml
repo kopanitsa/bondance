@@ -1,4 +1,4 @@
-baseURL = 'https://kopanitsa.github.io/bondance'
+baseURL = 'https://kopanitsa.github.io/Bondance/'
 publishDir = "docs"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
