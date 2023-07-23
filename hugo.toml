@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Generative Bon Dance'
+theme = 'hugo-scroll'
