@@ -17,6 +17,6 @@ header_menu: true
 
 「Generative AI Bon Dance」は、生成 AI の魔法により参加者の写真やイラストが躍動する、革新的なデジタルインスタレーションです。参加者の創造力が日本の伝統的な盆踊りをリフレッシュし、一緒に新たな踊りを創出します。さあ、この新世代の盆踊りで、技術と伝統の調和を体験しましょう！
 
-<!-- ![Dance](images/dummy.png) -->
+![Dance](images/dummy.png)
 
 ![Dance](images/ss_zoom.gif)
