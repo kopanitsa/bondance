@@ -1,0 +1,9 @@
+.image-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.image-row img {
+  width: calc(100% / 3 - 10px);
+  height: auto;
+}

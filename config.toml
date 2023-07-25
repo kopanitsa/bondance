@@ -54,3 +54,8 @@ title = "#00 Bondance"
     
     [params.meta]
         keywords = "maker faire, MFSZ, shenzhen, generative AI, GenAI"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
