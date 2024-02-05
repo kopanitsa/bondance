@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-weight: 3
+weight: 4
 header_menu: true
 ---
 
@@ -20,6 +20,8 @@ We are a creative team based in Tokyo. Our specialty lies in utilizing cutting-e
 
 ##### Contact
 
-[sharpreiwa@gmail.com](mailto:sharpreiwa@gmail.com)
+[email: sharpreiwa@gmail.com](mailto:sharpreiwa@gmail.com)
+
+[X: @ReiwaSharp71174](https://twitter.com/ReiwaSharp71174)
 
 Let us get in touch!

@@ -2,7 +2,7 @@
 title: "How To Make BonDance"
 header_menu_title: "How to Make"
 navigation_menu_title: "How to Make"
-weight: 2
+weight: 3
 header_menu: true
 ---
 
