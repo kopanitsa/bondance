@@ -18,6 +18,12 @@ We are a creative team based in Tokyo. Our specialty lies in utilizing cutting-e
 
 将日本民众的食物"たこやき/Takoyaki"和电子舞曲相结合的艺术。
 
+##### Partner
+
+- Japan: 広く提携先を募集しています
+- HongKong: [10botics](https://10botics.com/)
+
+
 ##### Contact
 
 [email: sharpreiwa@gmail.com](mailto:sharpreiwa@gmail.com)

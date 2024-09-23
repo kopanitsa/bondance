@@ -46,3 +46,9 @@ How was BonDance created? We used various types of AI.
 ---
 
 ![Generative AI](images/genai_202409.png)
+
+---
+
+シーンや目的に応じて、さまざまなパターンを作成可能です。
+
+![Variation](images/variation.png)
