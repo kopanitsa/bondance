@@ -16,24 +16,33 @@ How was BonDance created? We used various types of AI.
 
 ###### Ideation
 
-[ChatGPT](https://chat.openai.com/) [Notion AI](https://www.notion.so/product/ai)
+[ChatGPT](https://chat.openai.com/) [Notion AI](https://www.notion.so/product/ai) [Claude](https://claude.ai)
 
 ###### Dance
 
-[AnimatedDrawings](https://sketch.metademolab.com/)
+[Meta/AnimatedDrawings](https://sketch.metademolab.com/)
 
 ###### Coding
 
 [Github Copilot](https://github.com/features/copilot) [ChatGPT](https://chat.openai.com/)
 
-###### Lyric & Song
+###### Lyric
 
-[Bard](https://bard.google.com/) [SongR](https://www.songr.ai/) [Vocal Remover](https://vocalremover.org/)
+[ChatGPT](https://chat.openai.com/)
+
+###### Song
+
+[Suno](https://suno.com/) [SongR](https://www.songr.ai/) [Vocal Remover](https://vocalremover.org/)
 
 ###### Design & Illustration
 
-[midjourney](https://www.midjourney.com/) [Adobe firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
+[midjourney](https://www.midjourney.com/) [DALL-E](https://openai.com/index/dall-e-3/)
+
+###### Painting
+
+[midjourney](https://www.midjourney.com/)
+
 
 ---
 
-![Generative AI](images/genai.png)
+![Generative AI](images/genai_202409.png)

@@ -24,4 +24,5 @@ We are a creative team based in Tokyo. Our specialty lies in utilizing cutting-e
 
 [X: @ReiwaSharp71174](https://twitter.com/ReiwaSharp71174)
 
+お気軽にお問い合わせください!
 Let us get in touch!
