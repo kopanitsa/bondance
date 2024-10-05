@@ -9,6 +9,8 @@ header_menu: true
 
 日本を中心に、さまざまな国の展示会、企業イベント、学校のSTEAM Dayなどで展示を行っています
 
+저희는 일본을 중심으로, 다양한 국가의 전시회, 기업 행사, 학교의 STEAM Day 등에서 전시를 진행하고 있습니다.
+
 We participate in exhibitions in various countries, corporate events, and STEAM Days at schools.
 
 我们在各个国家的展览会、企业活动以及学校的STEAM日活动中进行展示。
